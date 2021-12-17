@@ -66,4 +66,4 @@ Then click ```Save```.
 
 Until this step, we are finish with the subscriber service. You may try to POST a request to publisher service while looking at the subscriber service log. The request message received by subscriber service from Pub/Sub topic should be printed on the log.
 
-If the publisher service hasn't been deployed yet, walkthrough the guidance [here](https://github.com/farizmamad/node-pubsub-subscriber)
+If the publisher service hasn't been deployed yet, walkthrough the guidance [here](https://github.com/farizmamad/node-pubsub-publisher)
